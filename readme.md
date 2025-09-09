@@ -18,7 +18,7 @@ A modern **AI-powered desktop application** that provides spiritual guidance fro
 ## 📖 Overview  
 
 The **Gita Wisdom App** is a PyQt5-based desktop application that integrates **Google Gemini AI** with curated verses from the Bhagavad Gita.  
-It allows users to explore spiritual teachings, ask questions, and receive contextual responses inspired by Krishna’s guidance.  
+It allows users to explore spiritual teachings, ask questions, and receive contextual responses inspired by Krishna’s guidance.  Inspired by https://github.com/subrata2003/gita-wisdom-guide of [Subrata](https://github.com/subrata2003) .
 
 The app also includes sample queries, a clean multi-tab interface, update management, and user-friendly interaction with saved API keys.  
 
