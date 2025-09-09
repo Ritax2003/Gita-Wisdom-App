@@ -1,0 +1,1 @@
+pyinstaller --onefile --windowed --icon=images/app_icon.ico -n "Gita-Wisdom-App-0.0.2" main.py
